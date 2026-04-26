@@ -47,24 +47,10 @@ Instead of just tracking expenses, SpendRadar provides insights, patterns, and s
 
 ---
 
-📸 Screenshots
-
-Add your app screenshots here
-
----
 
 📦 Installation
 
-Option 1: Run Locally
-
-git clone https://github.com/your-username/spendradar.git
-cd spendradar
-npm install
-npx expo start
-
----
-
-Option 2: Install APK
+Install APK
 
 👉 "Download APK" (#)
 https://drive.google.com/drive/folders/1JcSTvcD4YC9waRxO6e0wlxti3cudD6Is?usp=sharing
